@@ -78,7 +78,7 @@ sofia = {
 | 🌫️ **Dashboard de calidad del aire CDMX** | Dashboard interactivo con datos RAMA 2015–2023 | Python · Streamlit · PCA · MDS | App desplegada con correlaciones, reducción de dimensionalidad y series de tiempo |
 | 🚕 **Reservas Uber/Ola** | Análisis de ~103,000 registros siguiendo la metodología CRISP-DM | KNIME · K-means · CART · Apriori | Segmentación, clasificación y reglas de asociación |
 | 🎓 **Admisión a MBA** | Clasificación con imputación de la variable objetivo | Python · Random Forest · Regresión Logística | Comparación del desempeño de Random Forest y Regresión Logística |
-| ✈️ **Quejas de equipaje en aerolíneas** | Modelado y pronóstico de series de tiempo | Python/R · SARIMA | Pronóstico con componente estacional |
+| ✈️ [**Quejas de equipaje en aerolíneas**](https://github.com/sofiarodriguezzz/ProyectoFinalSeriesDeTiempo) | Análisis y pronóstico de quejas mensuales (2004–2010): pruebas ADF/KPSS, transformaciones y diagnóstico de residuos | Python · statsmodels · ARIMA · SARIMA | Pronóstico fuera de muestra y validación cruzada temporal, comparando SARIMA contra MA(1) |
 | 💬 **PLN desde cero** | Tokenizadores robustos, lematizador por reglas para español y One-Hot Encoding sin librerías | Python | Implementación propia de los fundamentos de PLN |
 
 <details>
