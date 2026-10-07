@@ -16,9 +16,8 @@
 
 ## Sobre mí
 
-Hola, soy Sofía. Soy estudiante de sexto semestre de Ciencia de Datos en ESCOM-IPN, en la Ciudad de México, y me gradúo en diciembre de 2027. Busco unas prácticas profesionales donde pueda usar datos para resolver problemas reales y seguir aprendiendo de un equipo.
-
-Me gusta entender los conceptos a fondo, no solo terminar tareas. He trabajado en proyectos de machine learning, procesamiento de lenguaje natural, series de tiempo y visualización de datos.
+Hola, soy Sofía, estudiante de sexto semestre de Ciencia de Datos en ESCOM-IPN, en la Ciudad de México. Tengo previsto graduarme en diciembre de 2027 y actualmente busco una oportunidad de prácticas profesionales donde pueda aplicar mis conocimientos en datos a problemas reales, adquirir experiencia y seguir aprendiendo junto con un equipo.
+He trabajado en proyectos de machine learning, procesamiento de lenguaje natural, series de tiempo y visualización de datos.
 
 **Idiomas:** Español (nativo) · Inglés (B1)
 
@@ -53,7 +52,6 @@ Me gusta entender los conceptos a fondo, no solo terminar tareas. He trabajado e
 | **Dashboard de calidad del aire en CDMX** | Construí un dashboard interactivo con datos de la RAMA (2015–2023), con correlaciones, reducción de dimensionalidad (PCA y MDS) y series de tiempo. | Python · Streamlit · PCA · MDS | 2025 |
 | **Minería de datos: reservas de Uber y Ola Cabs** | Analicé cerca de 103,000 reservas con la metodología CRISP-DM: segmentación de clientes con K-means, clasificación con CART y reglas de asociación con Apriori. | KNIME · K-means · CART · Apriori | 2025 |
 
-Estoy subiendo poco a poco el código de estos proyectos a mi GitHub.
 
 ---
 
@@ -63,9 +61,6 @@ Estoy subiendo poco a poco el código de estos proyectos a mi GitHub.
 
 ---
 
-<p align="center">
-  ¿Quieres hablar de datos o colaborar? Escríbeme a <a href="mailto:sofiarodriguez.hr@gmail.com">sofiarodriguez.hr@gmail.com</a>
-</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F4A6C0,100:FFDEE9&height=120&section=footer" width="100%"/>
