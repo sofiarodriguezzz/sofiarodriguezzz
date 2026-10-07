@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFDEE9,100:F4A6C0&height=200&section=header&text=Sof%C3%ADa%20Huerta&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20Student%20%C2%B7%20ESCOM-IPN&descAlignY=60&descSize=18" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFDEE9,100:F4A6C0&height=200&section=header&text=Sof%C3%ADa%20Huerta&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Estudiante%20de%20Ciencia%20de%20Datos%20%C2%B7%20ESCOM-IPN&descAlignY=60&descSize=18" width="100%"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=E57AA3&center=true&vCenter=true&width=650&lines=Data+Science+Student;Looking+for+a+Data+Science+Internship;Machine+Learning+%C2%B7+NLP+%C2%B7+Time+Series" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=E57AA3&center=true&vCenter=true&width=650&lines=Estudiante+de+Ciencia+de+Datos;Busco+pr%C3%A1cticas+profesionales+en+Ciencia+de+Datos;Machine+Learning+%C2%B7+PLN+%C2%B7+Series+de+Tiempo" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -14,17 +14,17 @@
 
 ---
 
-## About Me
+## Sobre mí
 
-Hi, I'm Sofía. I am a sixth-semester Data Science student at ESCOM-IPN in Mexico City, and I will graduate in December 2027. I am looking for an internship where I can use data to solve real problems and keep learning from a team.
+Hola, soy Sofía. Soy estudiante de sexto semestre de Ciencia de Datos en ESCOM-IPN, en la Ciudad de México, y me gradúo en diciembre de 2027. Busco unas prácticas profesionales donde pueda usar datos para resolver problemas reales y seguir aprendiendo de un equipo.
 
-I like to understand concepts in depth, not only finish assignments. I have worked on machine learning, natural language processing, time series and data visualization projects.
+Me gusta entender los conceptos a fondo, no solo terminar tareas. He trabajado en proyectos de machine learning, procesamiento de lenguaje natural, series de tiempo y visualización de datos.
 
-**Languages:** Spanish (native) · English (B1)
+**Idiomas:** Español (nativo) · Inglés (B1)
 
 ---
 
-## Tools
+## Herramientas
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-F4A6C0?style=for-the-badge&logo=python&logoColor=white"/>
@@ -43,28 +43,28 @@ I like to understand concepts in depth, not only finish assignments. I have work
 
 ---
 
-## Featured Projects
+## Proyectos destacados
 
-| Project | What I did | Tools | Year |
+| Proyecto | Qué hice | Herramientas | Año |
 |:---|:---|:---|:---:|
-| **Fake News Classification (WELFake)** | Compared baseline models (Logistic Regression, SVM and Naive Bayes) with a TextCNN using GloVe embeddings. I also searched for good model architectures with genetic algorithms. | Python · TensorFlow · GloVe · DEAP | 2026 |
-| **Hospital Readmission Prediction** | Built a full pipeline with data from diabetic patients: group-based imputation, ICD-9 code grouping and polypharmacy features. I used cross-validation, handled class imbalance and evaluated with PR-AUC and F-beta. | Python · scikit-learn · pandas | 2026 |
-| **Time Series Analysis: Airline Baggage Complaints** | Analyzed and forecasted monthly complaints (2004–2010). I used ADF and KPSS tests, transformations and residual diagnostics, and compared SARIMA with MA(1) using out-of-sample forecasts and time series cross-validation. | Python · statsmodels · ARIMA · SARIMA | 2026 |
-| **Air Quality Dashboard CDMX** | Built an interactive dashboard with RAMA data (2015–2023), including correlations, dimensionality reduction (PCA and MDS) and time series. | Python · Streamlit · PCA · MDS | 2025 |
-| **Data Mining: Uber and Ola Cabs Bookings** | Analyzed about 103,000 bookings with the CRISP-DM method: customer segmentation with K-means, classification with CART and association rules with Apriori. | KNIME · K-means · CART · Apriori | 2025 |
+| **Clasificación de noticias falsas (WELFake)** | Comparé modelos base (Regresión Logística, SVM y Naive Bayes) con una TextCNN que usa embeddings GloVe. También busqué buenas arquitecturas de modelo con algoritmos genéticos. | Python · TensorFlow · GloVe · DEAP | 2026 |
+| **Predicción de reingreso hospitalario** | Construí un pipeline completo con datos de pacientes diabéticos: imputación por grupos, agrupación de códigos ICD-9 y variables de polifarmacia. Usé validación cruzada, manejé el desbalance de clases y evalué con PR-AUC y F-beta. | Python · scikit-learn · pandas | 2026 |
+| **Análisis de series de tiempo: quejas de equipaje en aerolíneas** | Analicé y pronostiqué quejas mensuales (2004–2010). Usé pruebas ADF y KPSS, transformaciones y diagnóstico de residuos, y comparé SARIMA con MA(1) mediante pronósticos fuera de muestra y validación cruzada para series de tiempo. | Python · statsmodels · ARIMA · SARIMA | 2026 |
+| **Dashboard de calidad del aire en CDMX** | Construí un dashboard interactivo con datos de la RAMA (2015–2023), con correlaciones, reducción de dimensionalidad (PCA y MDS) y series de tiempo. | Python · Streamlit · PCA · MDS | 2025 |
+| **Minería de datos: reservas de Uber y Ola Cabs** | Analicé cerca de 103,000 reservas con la metodología CRISP-DM: segmentación de clientes con K-means, clasificación con CART y reglas de asociación con Apriori. | KNIME · K-means · CART · Apriori | 2025 |
 
-I am uploading the code for these projects to my GitHub step by step.
+Estoy subiendo poco a poco el código de estos proyectos a mi GitHub.
 
 ---
 
-## Upcoming
+## Próximamente
 
-**Final thesis project (Trabajo Terminal):** consistency and degradation of personality in LLM-based agents. Project with a classmate and two advisors.
+**Trabajo Terminal:** consistencia y degradación de personalidad en agentes basados en LLM. Proyecto en pareja con una compañera y dos directores.
 
 ---
 
 <p align="center">
-  Want to talk about data or work together? Write to me at <a href="mailto:sofiarodriguez.hr@gmail.com">sofiarodriguez.hr@gmail.com</a>
+  ¿Quieres hablar de datos o colaborar? Escríbeme a <a href="mailto:sofiarodriguez.hr@gmail.com">sofiarodriguez.hr@gmail.com</a>
 </p>
 
 <p align="center">
